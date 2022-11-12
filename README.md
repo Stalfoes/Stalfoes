@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Luke and I am a current MSc. Computing Science student.  
+
+I am interested in Aritificial Intellignce, Machine Learning, Reinforcement Learning, and games!
+
 <!--
 **Stalfoes/Stalfoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
